@@ -1,1 +1,1 @@
-script to print current working directory
+script to do various things in the terminal
