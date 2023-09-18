@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# accepts one argument n the script should run the whoami
+
+sudo -u "$1" whoami
